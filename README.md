@@ -1,5 +1,5 @@
 # FIRE 2015 : Mixed Script Information Retrieval
-Classifying text into Punctuations, 1 of 
+Shared Task Description at this [link](http://research.microsoft.com/en-us/events/fire13_st_on_transliteratedsearch/fire15st.aspx). 
 
 ## Subtask 1
 All the code is in this repository.
